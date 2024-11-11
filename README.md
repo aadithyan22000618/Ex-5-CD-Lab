@@ -1,6 +1,6 @@
 Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-NAME:AADITHYAN R
-reg.no:212222230001
+NAME:N.magesh
+reg.no:212222040091
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 
 Aim:
@@ -62,4 +62,5 @@ Screenshot 2024-10-24 133423
 
 RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
+
 
